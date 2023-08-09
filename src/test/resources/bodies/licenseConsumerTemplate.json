@@ -1,0 +1,15 @@
+{
+  "emailId":"cypresssuperadmin@layrins.com",
+  "draftId":"#{draftId}",
+  "key":"license",
+  "value":[
+    {
+      "state":"American Samoa",
+      "expirationDate":1687564800000,
+      "holderName":"akanksha singh",
+      "licenseNumber":"153723",
+      "licenseId":"lDlp8v7ggdnfHXpH6E99z",
+      "action":"add"
+    }
+  ]
+}

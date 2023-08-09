@@ -1,0 +1,14 @@
+{
+  "emailId":"cypresssuperadmin@layrins.com",
+  "draftId":"#{draftId}",
+  "key":"branding",
+  "value":{
+    "primaryColor":"#eb0f0f",
+    "secondaryColor":"#4817cf",
+    "primaryLogo":"b",
+    "secondaryLogo":"c",
+    "coBrandedByLayr":"yes",
+    "portalUrl":"#{agencyportalurl}",
+    "brandLine":"brand"
+  }
+}

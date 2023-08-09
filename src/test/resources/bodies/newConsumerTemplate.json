@@ -1,0 +1,41 @@
+{
+  "emailId":"cypresssuperadmin@layrins.com",
+  "draftName":"test_agencydetails",
+  "agencyName":"#{agencyName}",
+  "value":{
+    "basicDetails":{
+      "agencyName":"#{agencyName}",
+      "businessWebsite":"#{businessWebsite}",
+      "emailId":"#{email}",
+      "phoneNumber":"(323) 258-4338",
+      "fein":"",
+      "heraldProducerId":"313c4673-cf02-4cf3-b48f-77f4b5a15350",
+      "HeraldProducerId":"",
+      "naicsCode":[
+
+      ]
+    },
+    "businessAddress":{
+      "streetAddress":"Santa Monica Pier",
+      "suite":"",
+      "city":"Los Angeles",
+      "state":"California",
+      "zipCode":"90068"
+    },
+    "billingAddress":{
+      "streetAddress2":"Santa Monica Pier",
+      "suite2":"",
+      "city2":"Los Angeles",
+      "state2":"California",
+      "zipCode2":"90068",
+      "checkbox":true
+    },
+    "primaryContact":{
+      "firstName":"Akanksha",
+      "lastName":"Singh",
+      "email":"#{primaryContactEmail}",
+      "phone":"(123) 000-9999",
+      "role":"agencyAccountManager"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "emailId":"cypresssuperadmin@layrins.com",
+  "draftId":"#{draftId}",
+  "key":"carrier",
+  "value":[
+    {
+      "carrierId":"acceptance",
+      "carrierName":"Acceptance",
+      "service_portal_url":"https://awactest.com",
+      "sub_producer_code":"12345"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "emailId": "cypresssuperadmin@layrins.com",
+  "draftId": "#{draftId}",
+  "key": "errorsAndOmissions",
+  "value": {
+    "files": [
+      {
+        "fileName": "a",
+        "validFrom": 1687372200000,
+        "validTo": 1687458600000,
+        "comments": "dummy",
+        "fileId": "FBFidU2Sd8hoKIA9G10Wy"
+      }
+    ]
+  }
+}
